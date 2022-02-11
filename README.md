@@ -9,7 +9,7 @@ paloalto_saas_security_compliance_logsync is a utility written by me (Vitor Hast
 - Make sure you are running python 3+ “python --version”
 - Clone the github repository
 - If you get error about setuptools, install it using “pip3 install setuptools”
-- Refer the `Configuration` section below. You will need create `config.yml` file and fill out credentials for API in PaloAlto SaaS Security&Compliance section as well as other parameters if necessary
+- Refer the `Configuration` section below. You will need create `config.ini` file and fill out credentials for API in PaloAlto SaaS Security&Compliance section as well as other parameters if necessary
 - Run the application using "python3 <complete/path/to/code.py> <complete/path/to/config.yml>"
 
 ---
