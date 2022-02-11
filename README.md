@@ -26,7 +26,9 @@ paloalto_saas_security_compliance_logsync is a utility written by me (Vitor Hast
 
 ##### Work in progress
 
-- Waiting feedbacks ...
+- Output in Common Event Format (ArcSight)
+- Output to Syslog destination
+- Output to Splunk API
 
 ---
 
