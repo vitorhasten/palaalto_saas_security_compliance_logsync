@@ -34,4 +34,4 @@ paloalto_saas_security_compliance_logsync is a utility written by me (Vitor Hast
 
 ##### Configuration
 
-- Check `template_config.yml` for an example and for extensive, in-depth config explanation
+- Check `template_config.ini` for an example and for extensive, in-depth config explanation
