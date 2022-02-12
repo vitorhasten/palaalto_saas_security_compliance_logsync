@@ -18,10 +18,7 @@ Ref: https://docs.paloaltonetworks.com/saas-security/saas-security-admin/saas-se
 
 ##### Features
 
-- Ability to recover data by reading from last known offset through checkpointing files
-- Enabling only certain endpoints through config file
-- Choosing how logs are formatted (JSON)
-- Support for Linux and Windows
+- 
 
 ---
 
