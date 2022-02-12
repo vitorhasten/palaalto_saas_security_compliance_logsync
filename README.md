@@ -16,7 +16,6 @@ paloalto_saas_security_compliance_logsync is a utility written by me (Vitor Hast
 
 ##### Features
 
-- Current version supports fetching logs from auth, telephony, admin, and trust monitor endpoints and send over TCP, TCP Encrypted over SSL, and UDP to consuming systems
 - Ability to recover data by reading from last known offset through checkpointing files
 - Enabling only certain endpoints through config file
 - Choosing how logs are formatted (JSON)
