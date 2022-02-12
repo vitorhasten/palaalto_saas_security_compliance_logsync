@@ -2,6 +2,8 @@
 ##### About
 paloalto_saas_security_compliance_logsync is a utility written by me (Vitor Hastenrreinter) to enable fetching logs from Palo Alto SaaS Security API services and enabling customers to feed it to different SIEMs. Incremental updates will be published as we add more features. 
 
+Ref: https://docs.paloaltonetworks.com/saas-security/saas-security-admin/saas-security-api.html
+
 ---
 
 ##### Installation
